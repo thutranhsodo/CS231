@@ -1,0 +1,14 @@
+Mean Accuracy: 0.885133, Parameters: {'max_depth': None, 'n_estimators': 10}
+Mean Accuracy: 0.932501, Parameters: {'max_depth': None, 'n_estimators': 50}
+Mean Accuracy: 0.933501, Parameters: {'max_depth': None, 'n_estimators': 100}
+Mean Accuracy: 0.881092, Parameters: {'max_depth': 10, 'n_estimators': 10}
+Mean Accuracy: 0.920395, Parameters: {'max_depth': 10, 'n_estimators': 50}
+Mean Accuracy: 0.933496, Parameters: {'max_depth': 10, 'n_estimators': 100}
+Mean Accuracy: 0.885133, Parameters: {'max_depth': 20, 'n_estimators': 10}
+Mean Accuracy: 0.932501, Parameters: {'max_depth': 20, 'n_estimators': 50}
+Mean Accuracy: 0.933501, Parameters: {'max_depth': 20, 'n_estimators': 100}
+Mean Accuracy: 0.885133, Parameters: {'max_depth': 30, 'n_estimators': 10}
+Mean Accuracy: 0.932501, Parameters: {'max_depth': 30, 'n_estimators': 50}
+Mean Accuracy: 0.933501, Parameters: {'max_depth': 30, 'n_estimators': 100}
+Best parameters: {'max_depth': None, 'n_estimators': 100}
+Best score: 0.933501

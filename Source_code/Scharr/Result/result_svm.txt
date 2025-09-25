@@ -1,0 +1,26 @@
+Mean Accuracy: 0.916380, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean Accuracy: 0.760109, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean Accuracy: 0.534374, Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean Accuracy: 0.916380, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean Accuracy: 0.175397, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean Accuracy: 0.851896, Parameters: {'C': 0.1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean Accuracy: 0.916380, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'linear'}
+Mean Accuracy: 0.917380, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean Accuracy: 0.793406, Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'poly'}
+Mean Accuracy: 0.916380, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'linear'}
+Mean Accuracy: 0.210746, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean Accuracy: 0.851896, Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'poly'}
+Mean Accuracy: 0.916380, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'linear'}
+Mean Accuracy: 0.931486, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean Accuracy: 0.846830, Parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'poly'}
+Mean Accuracy: 0.916380, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'linear'}
+Mean Accuracy: 0.210746, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean Accuracy: 0.851896, Parameters: {'C': 10, 'gamma': 'auto', 'kernel': 'poly'}
+Mean Accuracy: 0.916380, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'linear'}
+Mean Accuracy: 0.931486, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf'}
+Mean Accuracy: 0.851896, Parameters: {'C': 100, 'gamma': 'scale', 'kernel': 'poly'}
+Mean Accuracy: 0.916380, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'linear'}
+Mean Accuracy: 0.210746, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'rbf'}
+Mean Accuracy: 0.851896, Parameters: {'C': 100, 'gamma': 'auto', 'kernel': 'poly'}
+Best parameters: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+Best score: 0.931486
