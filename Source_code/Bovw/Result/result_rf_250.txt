@@ -1,0 +1,30 @@
+Mean Accuracy: 0.578610, Parameters: {'max_depth': None, 'n_estimators': 10}
+Mean Accuracy: 0.702619, Parameters: {'max_depth': None, 'n_estimators': 50}
+Mean Accuracy: 0.713725, Parameters: {'max_depth': None, 'n_estimators': 100}
+Mean Accuracy: 0.720776, Parameters: {'max_depth': None, 'n_estimators': 150}
+Mean Accuracy: 0.726821, Parameters: {'max_depth': None, 'n_estimators': 200}
+Mean Accuracy: 0.730866, Parameters: {'max_depth': None, 'n_estimators': 250}
+Mean Accuracy: 0.729856, Parameters: {'max_depth': None, 'n_estimators': 300}
+Mean Accuracy: 0.599787, Parameters: {'max_depth': 10, 'n_estimators': 10}
+Mean Accuracy: 0.702655, Parameters: {'max_depth': 10, 'n_estimators': 50}
+Mean Accuracy: 0.712751, Parameters: {'max_depth': 10, 'n_estimators': 100}
+Mean Accuracy: 0.718766, Parameters: {'max_depth': 10, 'n_estimators': 150}
+Mean Accuracy: 0.721791, Parameters: {'max_depth': 10, 'n_estimators': 200}
+Mean Accuracy: 0.724811, Parameters: {'max_depth': 10, 'n_estimators': 250}
+Mean Accuracy: 0.728841, Parameters: {'max_depth': 10, 'n_estimators': 300}
+Mean Accuracy: 0.604858, Parameters: {'max_depth': 20, 'n_estimators': 10}
+Mean Accuracy: 0.696594, Parameters: {'max_depth': 20, 'n_estimators': 50}
+Mean Accuracy: 0.715756, Parameters: {'max_depth': 20, 'n_estimators': 100}
+Mean Accuracy: 0.734907, Parameters: {'max_depth': 20, 'n_estimators': 150}
+Mean Accuracy: 0.729867, Parameters: {'max_depth': 20, 'n_estimators': 200}
+Mean Accuracy: 0.737927, Parameters: {'max_depth': 20, 'n_estimators': 250}
+Mean Accuracy: 0.733912, Parameters: {'max_depth': 20, 'n_estimators': 300}
+Mean Accuracy: 0.578610, Parameters: {'max_depth': 30, 'n_estimators': 10}
+Mean Accuracy: 0.700609, Parameters: {'max_depth': 30, 'n_estimators': 50}
+Mean Accuracy: 0.714740, Parameters: {'max_depth': 30, 'n_estimators': 100}
+Mean Accuracy: 0.728841, Parameters: {'max_depth': 30, 'n_estimators': 150}
+Mean Accuracy: 0.723816, Parameters: {'max_depth': 30, 'n_estimators': 200}
+Mean Accuracy: 0.732882, Parameters: {'max_depth': 30, 'n_estimators': 250}
+Mean Accuracy: 0.736907, Parameters: {'max_depth': 30, 'n_estimators': 300}
+Best parameters: {'max_depth': 20, 'n_estimators': 250}
+Best score: 0.737927
