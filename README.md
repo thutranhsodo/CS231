@@ -12,6 +12,6 @@ Phân loại sản phẩm thời trang là bài toán thuộc lĩnh vực thị 
 
 2. Source_code:
 - Sử dụng ba phương pháp rút trích đặc trưng bao gồm: Histogram of oriented gradient (HOG), Scale-invariant feature transform (SIFT) + Bag of visual word (BOVW) và Scharr operator kết hợp với ba phương pháp máy học để phân loại bao gồm: K-nearest neighbors (KNN), Support vector machine (SVM) và Random forest (RF).
-- Demo: sử dụng Streamlit tạo một web demo đơn giản hiển thị kết quả phân loại hình ảnh mới được nhập vào:
+- Demo: sử dụng Flask tạo một web demo đơn giản hiển thị kết quả phân loại hình ảnh mới được nhập vào:
 
 <img width="904" height="400" alt="image" src="https://github.com/user-attachments/assets/fca37b70-8207-49f1-9a26-7c31d7e7697b" />
